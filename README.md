@@ -12,7 +12,7 @@ Concerned citizens have formed a neighborhood association and this device was bu
 association understand vehicle traffic volumes and patterns. 
 
 ## Hardware
-Other hardware could be used, but here the subject device is built with:
+Other hardware could be used, but here is what the subject device is built with:
  * [Raspberry Pi 3B+] - https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/ ~$35
  * [Omnipresence OPS-243A doppler radar sensor] - https://omnipresense.com/product/ops243-doppler-radar-sensor/ ~$209
  * [Arducam 8MP Noir camera for Raspberry Pi] https://www.uctronics.com/arducam-noir-8mp-sony-imx219-camera-module-with-cs-lens-2717-for-raspberry-pi.html] ~$60
